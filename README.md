@@ -1,4 +1,4 @@
-### Hi there I'm Royden but you can call me Roy👋
+### Hi there I'm Royden but you can call me Roy👋 🇿🇦
 
 <!-- **Roydenb/Roydenb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
@@ -15,5 +15,4 @@
 
 - 📫 How to reach me: 
      My email: botharoyden@gmail.com 
-                   or 
-     My portfolio: (https://dev-rbportfolio.pantheonsite.io/)
+     My portfolio link: (https://dev-rbportfolio.pantheonsite.io/)
