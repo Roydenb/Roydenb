@@ -1,7 +1,7 @@
 ### Hi there I'm Royden but you can call me Roy👋
 
-**Roydenb/Roydenb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- **Roydenb/Roydenb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
 - 🔭 I’m currently working at Lc Studio as a Web Developer.
 - 🌱 I’m currently learning to perfect my craft. Well doing my best.😅
 - 💬 Ask me about anything, 
