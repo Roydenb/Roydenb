@@ -1,6 +1,5 @@
 ### Hi there I'm Royden but you can call me Roy👋
 
-<!--
 **Roydenb/Roydenb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working at Lc studio as a Wordpress Website developer.
@@ -18,4 +17,3 @@
      My email: botharoyden@gmail.com 
                    or 
      My portfolio: (https://dev-rbportfolio.pantheonsite.io/)
--->
